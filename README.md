@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Shayanne Rocha
 
-<!--
-**ShayanneR/ShayanneR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma in Graphic Web Design & Web Development  
+💻 Passionate about creating clean, user-friendly websites  
+🌎 Based in Canada  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a creative and detail-oriented web designer and developer with a background in graphic design and front-end development. I enjoy building modern, responsive websites that provide great user experiences.
+
+Currently improving my skills in:
+- Advanced CSS & Layout Techniques
+- JavaScript Interactivity
+- Git & GitHub workflow
+- UI/UX design principles
+
+---
+
+## 🛠️ Technical Skills
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Git & GitHub  
+- Responsive Design  
+- Figma  
+- Adobe Creative Suite  
+
+---
+
+## 📌 Current Goals
+
+- Build stronger JavaScript projects  
+- Contribute to collaborative repositories  
+- Expand my professional portfolio  
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/ShayanneR
+
+---
+
+✨ Always learning. Always building.
