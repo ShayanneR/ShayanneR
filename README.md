@@ -7,6 +7,8 @@
 📚 Currently studying Mobile App Development using AI 
 
 🌎 Based in Canada  
+
+
 ---
 
 ## 🚀 About Me
