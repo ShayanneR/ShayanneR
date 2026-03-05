@@ -1,4 +1,4 @@
-## 👋🏽 Hi, I'm Shayanne Rocha
+# 👋🏽 Hi, I'm Shayanne Rocha
 
 🎓 Diploma in Graphic Web Design & Web Development 
 
