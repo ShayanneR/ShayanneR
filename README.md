@@ -1,5 +1,4 @@
 # 👋🏽 Hi, I'm Shayanne Rocha
-
 📚 Currently studying Mobile App Development using AI
 🎓 Diploma in Graphic Web Design & Web Development  
 💻 Passionate about creating clean, user-friendly websites  
